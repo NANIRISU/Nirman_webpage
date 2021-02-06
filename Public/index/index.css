@@ -1,0 +1,17 @@
+/* body{
+    display:flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: bisque;
+} */
+.container-header {
+    /* width:100v; */
+    height: 10%;
+    text-align:center;
+    background-color: black;
+    color: white;
+    justify-content:center;
+    /* position:fixed; */
+    /* padding:10px; */
+    /* margin-top: px; */
+}
